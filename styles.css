@@ -1,0 +1,101 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Figtree', sans-serif;
+    position: relative;
+}
+h1{
+    margin-top: 0;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 320%;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.Anurag{
+    position: absolute;
+    right: 582px;
+    top: 200px;
+    color: #157b7a;
+    line-height: 2;
+}
+
+.sub{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    right: 653px;
+    top: 275px;
+    font-size: 20px;
+    color: #157b7a;
+    font-weight: normal;
+}
+
+.novaturient {
+    background-color: #97DECE;
+    position: relative;
+    padding-top: 392px;
+    
+}
+.bottom-cloud{
+    position: absolute;
+    left: 420px;
+    top: 310px;
+}
+.top-cloud{
+    position:absolute;
+    right: 420px;
+    top: 120px;
+}
+.hilltop{
+    height: 350px;
+}
+.my-dp{
+    height: 150px;
+    margin-top: 70px; 
+    margin-bottom: 40px;  
+    margin-right: 30px;
+}
+.Football{
+    height: 180px;
+}
+.laptop{
+    height: 180px;
+    margin-right: 300px;
+}
+.centering{
+    display:flex;
+    justify-content: center;
+}
+
+.My-Skills{ 
+    display: flex;
+    margin-bottom: 50px;
+    flex-direction: column;
+    margin-top: 30px;
+}
+.Soccer{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+.description{
+    margin-right: 300px;
+}
+.skills{
+    margin-top: 60px;
+}
+.book{
+    height: 180px;
+}
+.Contact-Me{
+    margin-top: 50px;
+}
